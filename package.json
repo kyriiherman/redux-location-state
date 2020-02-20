@@ -23,7 +23,7 @@
     "url": "git+https://github.com/spotify/redux-location-state.git"
   },
   "peerDependencies": {
-    "redux": "^3.0.0 || ^4.0.0",
+    "redux": "^3.0.0 || ^4.0.0"
   },
   "files": [
     "lib/*.js"
